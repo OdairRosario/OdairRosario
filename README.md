@@ -8,6 +8,6 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=odairRosario&count_private=true&include_all_commits=true" />
-  <img  height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odairRosario&layout=compact" />
+  <img height="170" align="left" src="https:/github-readme-stats-gilt-one-57.vercel.app/api?username=odairRosario&count_private=true&include_all_commits=true" />
+  <img  height="170" src="https://github-readme-stats-gilt-one-57.vercel.app/api/top-langs/?username=odairRosario&layout=compact" />
 </div>

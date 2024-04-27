@@ -8,7 +8,7 @@
 ---
 
 <div>
-  <img height="215" align="left" src="https://github-readme-stats.vercel.app/api?username=odairRosario&count_private=true" />
+  <img height="175" align="left" src="https://github-readme-stats.vercel.app/api?username=odairRosario&count_private=true" />
   <img src="https://github-readme-stats-gilt-one-57.vercel.app/api/top-langs/?username=odairRosario&layout=donut" />
 </div>
 
